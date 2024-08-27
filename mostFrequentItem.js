@@ -18,4 +18,4 @@ function mostFrequentItem(arr) {
 
 console.log(mostFrequentItem([1, 2, 2, 3, 3, 3, 4, 4, 4, 4]));
 console.log(mostFrequentItem(["apple", "banana", "apple", "orange", "banana", "banana"]));
-console.log(mostFrequentItem([10, 20, 10, 30, 20, 10]));
+console.log(mosittFrequentItem([10, 20, 10, 30, 20, 10]));
